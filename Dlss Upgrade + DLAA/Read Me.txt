@@ -1,0 +1,25 @@
+Preface: 
+
+-Only works with games that have (FSR 2.0+ and DLSS) and run on Direct 12 mode!
+
+-Files may be outdated so please check link at the bottom for updateded ones. 
+
+-I dont take any responsibitly for breaking or messing up your game. Please take all nesscarry percaustions before 
+downloading something like this. For example backuping up any files that you deem impornatnt such as but not exclusive 
+to "Save files", "Game Name.Exe" , "Files that are being replaced with new ones" , and etc.
+
+
+
+How to ?
+
+1. Put EnableSignatureOverride.reg, nvngx_dlss.dll, winmm.dll, nvngx.dll, nvngx.ini into the game directory 
+(replace if asked, BE WARNED! that if your asked then you should probably create backups just in case)
+
+3. Make sure you have run EnableSignatureOverride.reg at least once, after this you can delete the file.
+
+4. Run the game in DirectX 12 mode
+
+Latest update can be found from the link below:
+
+https://github.com/YeokiNoewChi/dlss-upgrade 
+
